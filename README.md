@@ -1,2 +1,4 @@
 # hello-word
-just another repository
+
+  
+just demonstrate these codes's different.
